@@ -115,13 +115,17 @@ Classificação de etnias é uma tarefa extremamente complexa e mesmo modelos ro
 ## Referências
 
 Projeto FairFace: <https://github.com/joojs/fairface>. Acesso em 30 de novembro de 2025.
+
 Licensa: CC BY 4.0.
 
 Projeto UTKFace: <https://susanqq.github.io/UTKFace/>. Acesso em 30 de novembro de 2025.
+
 Licensa: Disponível para projetos de pesquisa não comerciais.
 
 Projeto ArcFace: <https://github.com/chenggongliang/arcface>. Acesso em 30 de novembro de 2025.
+
 Licensa: MIT _License_.
 
 ArcFace no Pytorch: <https://github.com/ronghuaiyang/arcface-pytorch>. Acesso em 30 de novembro de 2025.
+
 Licensa: Nenhuma.
