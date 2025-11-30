@@ -4,7 +4,7 @@ Repositório dedicado ao projeto de implementação da disciplina "Aprendizado P
 
 O projeto foi elaborado por Ian Marques Breda e Kaio Henrique Avelino Domeni de Paulo.
 
-## Introudção
+## Introdução
 
 Este projeto tem como objetivo implementar uma solução utilizando aprendizado de máquina profundo em um problema envolvendo DEIA (Diversidade, Equidade, Inclusão e Acessibilidade). Para tal, foram desenvolvidos dois códigos: FairFace - Implementation e Subrepresentation Analysis. O primeiro, tem como objetivo o treinamento de diversas redes profundas e o segundo tem como objetivo auditar _datasets_ para detectar sub-representação de etnias, um tema muito recorrente no campo de Aprendizado de Máquina, onde poucas amostras de uma determinada etnia em uma base de dados pode levar o modelo a uma acurácia menor em testes na vida real com essas etnias.
 
