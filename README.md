@@ -108,7 +108,7 @@ Podemos observar que o modelo teve um bom desempenho na auditoria, apesar da dif
 
 ## Conclusão
 
-Classificação de etnias é uma tarefa extremamente complexa e mesmo modelos robustos apresentam dificuldades para extrair características relevantes para a distinção entre elas. Entretanto, o desempenho do _transformer_ pode ser considerado aceitável para a realização de auditorias de sub-representação.
+Classificação de etnias é uma tarefa extremamente complexa e mesmo modelos robustos apresentam dificuldades para extrair características relevantes para a distinção entre elas. Entretanto, o desempenho de arquiteturas como a ResNet 34 e o _transformer_ podem ser considerados aceitáveis para a realização da tarefa.
 
 É importante que o tema seja mais explorada para que garantir que os princípios do DEIA sejam devidamente cumpridos em tarefas de Aprendizado de Máquina.
 
